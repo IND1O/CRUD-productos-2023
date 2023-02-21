@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Celular Y",
+      "description": "Color blanco de 128GB",
+      "price": 25899.99
+    },
+    {
+      "id": 2,
+      "name": "iphone XS",
+      "description": "Bonito y caro",
+      "price": 25000
+    },
+    {
+      "id": 3,
+      "name": "iPAD Air",
+      "description": "9na Generación",
+      "price": 6000
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi Redmi 30",
+      "description": "Celular de 32GB de RAM muy bonito",
+      "price": 35000
+    },
+    {
+      "id": 5,
+      "name": "Monitor",
+      "description": "80 Pulgadas",
+      "price": 22499.99
+    },
+    {
+      "id": 6,
+      "name": "iWatch",
+      "description": "Reloj muy inteligente",
+      "price": 24500
+    },
+    {
+      "id": 7,
+      "name": "Xperia Plus",
+      "description": "color negro 128 GB",
+      "price": "35899.99"
+    }
+  ]
+}
